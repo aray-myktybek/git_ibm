@@ -28,7 +28,7 @@ The IBM Data Analytics Certificate is designed to provide foundational skills in
 3. **Python for Data Science, AI & Development**
    - Introduction to Python programming.
    - Applying Python for data analysis.
-   - [Certificate](link_to_certificate)
+   - [Certificate](https://coursera.org/share/0e016a986fc1fad3c0a97dbe4ded95a6)
 
 4. **Databases and SQL for Data Science with Python**
    - Basics of SQL and database management.
