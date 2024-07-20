@@ -20,37 +20,38 @@ The IBM Data Analytics Certificate is designed to provide foundational skills in
    - Basic concepts and terminologies.
    - [Certificate](https://coursera.org/share/7ecd3b3e85fce8f9103aa6e684ddb496)
 
-2. **Data Visualization and Dashboards with Excel and Cognos**
-   - Creating visualizations using Excel.
-   - Building interactive dashboards with IBM Cognos.
+2. **Excel Basics for Data Analysis**
+   - 
    - [Certificate](https://coursera.org/share/e441d4efe7d1bfb9cd205c8bbff7bbff)
 
-3. **Python for Data Science, AI & Development**
-   - Introduction to Python programming.
-   - Applying Python for data analysis.
+3. **Data Visualization and Dashboards with Excel and Cognos**
+   - Creating visualizations using Excel.
+   - Building interactive dashboards with IBM Cognos.
    - [Certificate](https://coursera.org/share/0e016a986fc1fad3c0a97dbe4ded95a6)
 
-4. **Databases and SQL for Data Science with Python**
+4. **Python for Data Science, AI & Development**
+   - Introduction to Python programming.
+   - Applying Python for data analysis.
+   - [Certificate](https://coursera.org/share/41bbf1705f1c1b555800e35d55f98972)
+   
+5. **Python Project for Data Science**
+
+6. **Databases and SQL for Data Science with Python**
    - Basics of SQL and database management.
    - Using SQL for data querying and manipulation.
    - [Certificate](link_to_certificate)
 
-5. **Data Analysis with Python**
+7. **Data Analysis with Python**
    - Advanced data analysis techniques using Python.
    - Libraries such as Pandas, NumPy, and Matplotlib.
    - [Certificate](link_to_certificate)
 
-6. **Data Visualization with Python**
+8. **Data Visualization with Python**
    - Creating advanced visualizations with Python.
    - Libraries such as Matplotlib and Seaborn.
    - [Certificate](link_to_certificate)
 
-7. **Data Analysis with R**
-   - Introduction to R programming.
-   - Data manipulation and visualization using R.
-   - [Certificate](link_to_certificate)
-
-8. **Capstone Project**
+9. **Capstone Project**
    - Applying all the learned skills in a comprehensive final project.
    - [Certificate](link_to_certificate)
 
